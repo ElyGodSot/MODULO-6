@@ -1,5 +1,5 @@
 
-import reactLogo from './assets/react.svg'
+import reactLogo from '../../src/assets/react.svg'
 import { useState } from 'react'
 
 const SimpleForm = () => {

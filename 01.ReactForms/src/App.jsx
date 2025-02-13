@@ -1,6 +1,7 @@
 
 //import reactLogo from './assets/react.svg'
-
+import ReactHookForm from '../Components/ReactHookForm/ReactHookForm'
+import SimpleForm from '../Components/SimpleForm/SimpleForm'
 import './App.css'
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
 
   return (
     <>
-      <h1>todo funciona</h1>
+      <ReactHookForm></ReactHookForm>
+      <SimpleForm></SimpleForm>
     </>
   )
 }

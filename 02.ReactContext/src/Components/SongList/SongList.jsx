@@ -1,4 +1,4 @@
-import { useSongContext } from '../../Hook/UseSongContext'
+import { useSongContext } from "../../Hook/useSongContext"
 import './SongList.css'
 
 const SongList = () => {

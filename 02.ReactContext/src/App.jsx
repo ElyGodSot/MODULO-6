@@ -7,7 +7,6 @@ function App() {
 
   return (
     <>
-     <h1>Playlist</h1>
      <Home></Home>
     </>
   )

@@ -2,10 +2,13 @@ import { useSongContext } from "../../Hook/useSongContext"
 
 
 const SongDetail = () => {
-  const {selectedSong} = useSongContext()
+  const {selectedSong,loading} = useSongContext()
   return (
     <>
-    {
+
+    
+{
+        
       selectedSong.title
         ? (
           <div>

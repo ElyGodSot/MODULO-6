@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1c311551-074a-4226-9758-f0780c427612",
+      "first_name": "Dr.",
+      "last_name": "Strange",
+      "gender": "M",
+      "email": "drstrange@marvel.com",
+      "password": "$2b$10$eWUUn0pa93FvCflMfAoOi.pia5mX0XZo3vFIseZApqdIpjURSUpJO",
+      "role": "ADMIN",
+      "createdAt": 1672949755981,
+      "updatedAt": 1672949755981
+    },
+    {
+      "id": "7f545390-fd8f-4412-b7b3-4e267586751f",
+      "first_name": "Clark",
+      "last_name": "Kent",
+      "gender": "M",
+      "email": "superman@dc.com",
+      "password": "$2b$10$rk4MklBt2DtAq4Fh/okYYul54DSJWh1z2jRf9qIWKuygOEQI2FR5C",
+      "role": "ADMIN",
+      "createdAt": 1674323738966,
+      "updatedAt": 1674323738966
+    }
+  ]
